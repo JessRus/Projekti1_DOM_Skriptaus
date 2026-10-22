@@ -6,14 +6,14 @@
 
 ### Projektin idea
 
-Sovellus on to-do lista minne voi lisätä ja poistaa tehtäviä, sekä merkata tehtävät valmiiksi
+Sovellus on to-do lista minne voi lisätä ja poistaa tehtäviä, sekä merkata tehtävät tehdyksi.
 
 ### Suunnitellut toiminnot
 
 Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
-- Voi lisätä to-do tehtäviä
-- Voi poistaa to-do tehtäviä
+- Voi lisätä tehtäviä
+- Voi poistaa tehtäviä
 - Voi merkata tehtävät tehdyksi
 
 ### Rautalankamalli / luonnos
