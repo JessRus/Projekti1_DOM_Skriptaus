@@ -6,7 +6,7 @@
 
 ### Projektin idea
 
-Sovellus on to-do lista minne voi lisätä ja poistaa tehtöviä, sekä merkata tehtävät valmiiksi
+Sovellus on to-do lista minne voi lisätä ja poistaa tehtäviä, sekä merkata tehtävät valmiiksi
 
 ### Suunnitellut toiminnot
 
@@ -18,10 +18,6 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ### Rautalankamalli / luonnos
 
-Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovelluksen luonnoksesta. Luonnoksessa tulee näkyä sovelluksen pääasiallinen näkymä ja tärkeimmät elementit.
-
-Esimerkki kuvan lisäämisestä:
-
 ![Rautalankamalli](images/wireframe.png)
 
 ## Verkkolinkit
@@ -32,9 +28,7 @@ Esimerkki kuvan lisäämisestä:
 
 ## Tietoja sovelluksesta
 
-**[Projektin nimi]** on verkkosovellus, joka ...
-
-Kuvaile lyhyesti sovelluksen tarkoitus ja tärkeimmät toiminnot.
+**[To-do lista]** on verkkosovellus, jossa voi lisätä, poistaa ja merkata tehtäviä tehdyiksi.
 
 ## Teknologiat
 
@@ -62,10 +56,6 @@ Kirjoita lyhyet käyttöohjeet sovellukselle.
 
 ## Kuvakaappaukset
 
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksestasi.
-
-Esimerkki kuvan lisäämisestä:
-
 ![Kuvakaappaus sovelluksesta](images/to-do-lista.png)
 
 ## Tunnetut virheet / puutteet
@@ -78,19 +68,19 @@ Esimerkki kuvan lisäämisestä:
 Pohdi työtäsi ja oppimisprosessiasi.
 
 - Missä onnistuin?
-Sain tehtyä ihan toimivan to-do listan.
+**Sain tehtyä ihan toimivan to-do listan.**
 - Mikä oli haastavaa?
-Javascripti on minusta vaikeaa.
+**Javascripti on minusta vaikeaa.**
 - Mitä parantaisin, jos aikaa olisi enemmän? 
-Lisäisin enemmän asioita kuten, tallenus selaimeen.
+**Lisäisin enemmän asioita kuten esimerkiksi tallenus selaimeen.**
 - Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta?
-Opin paremiin soveltamaan mitä olen oppinut tällä kursilla.
+**Opin paremiin soveltamaan mitä olen oppinut tällä kursilla.**
 - Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
-Javascript on yhä vaikeaa, joten haluaisin oppia enemmän siitä.
+**Javascript on yhä vaikeaa, joten haluaisin parantaa taitojani siinä.**
 - Oma arvio projektista: **6/10 pistettä**
 
 ## Lähteet ja kiitokset
 
-- [Lähteen tai tutoriaalin nimi](https://youtu.be/G0jO8kUrg-I?si=WDrjOv6gosFG2hTV)
+- [Käytin tätä videota apunani](https://youtu.be/G0jO8kUrg-I?si=WDrjOv6gosFG2hTV)
 - Käytetty tekoälytyökalu: ChatGPT
   - Miten työkalua käytettiin: Käytin tekoälyä virheiden korjaamiseen.
